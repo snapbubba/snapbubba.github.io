@@ -27,6 +27,9 @@ body {
             align-items: center;
             margin: 0 auto;
             max-width: 90%;
+            @media (min-width: 1030px) {
+                max-width: 55%;
+            }
             header {
                 grid-area: head;
             }
