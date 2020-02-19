@@ -2,6 +2,9 @@
 ---
 
 //@import "{{ site.theme }}";
+:root, [data-theme="default"] { {
+  --main-color: #000000;
+}
 body {
     width: 100vw;
     height: 100vh;
@@ -33,4 +36,12 @@ body {
                 grid-area: footer;
             }
         }
+    a {
+        color: var(--main-color);
+        &:active,
+        &:visited,
+        &:hover {
+            color: lighten(var(--main-color), 5%);
+        }
+    }
 }
