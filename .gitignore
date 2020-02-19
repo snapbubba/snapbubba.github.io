@@ -7,3 +7,14 @@ _site
 .jekyll-metadata
 vendor
 _notebooks/.ipynb_checkpoints
+.cache-loader
+dist
+vendor
+vendorOLD
+node_modules
+temp_modules
+.DS_Store
+.idea
+yarn.lock
+npm-debug.log
+yarn-error.log
