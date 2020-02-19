@@ -1,3 +1,5 @@
+# Our story
+
 One day when my daughter Liba was a few months old my mum came over to visit at bath time. We were both taking photos of Liba looking cute with the flannel on her head (as you do) when I noticed that my mum was having difficulty getting Liba to look at her phone for a good face pic. I hadn’t realised until then that the black and white sticker I happened to have on my phone case had been catching Liba’s attention, and leaving me with effortless photo’s of her looking straight at the camera almost all the time. Meanwhile my partner and other relatives were relying on luck or tricks to catch her attention.
 
 So using research about what kind of imagery babies are interested by I decided I wanted to get the word out that taking photos of your new baby can be effortless.
