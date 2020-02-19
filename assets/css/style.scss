@@ -19,6 +19,10 @@ body {
                 "head"
                 "main"
                 "footer";
+            justify-items: center;
+            align-items: center;
+            margin: 0 auto;
+            max-width: 90%;
             header {
                 grid-area: head;
             }
