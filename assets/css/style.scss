@@ -4,6 +4,7 @@
 //@import "{{ site.theme }}";
 :root, [data-theme="default"] {
   --main-color: #000000;
+  --lighter-color: #333333;
 }
 body {
     width: 100vw;
@@ -38,10 +39,17 @@ body {
         }
     a {
         color: var(--main-color);
+        text-decoration: none;
+
+        &:visited{
+            color: var(--main-color);
+            text-decoration: none;
+        }
+
         &:active,
-        &:visited,
         &:hover {
-            color: lighten(var(--main-color), 5%);
+            color: var(--lighter-color);
+            text-decoration: underline;
         }
     }
 }
