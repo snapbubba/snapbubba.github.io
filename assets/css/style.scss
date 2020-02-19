@@ -3,13 +3,30 @@
 
 //@import "{{ site.theme }}";
 body {
-    display: grid;
-    grid-template-columns:
-    [full-start] minmax(1em, 1fr)
-    [main-start] minmax(0, 56em) [main-end]
-    minmax(1em, 1fr) [full-end];
-    grid-gap: 1em;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
         .wrapper {
-            grid-column: main;
+            display: grid;
+            width: 100vw;
+            height: 100vh;
+            justify-content: center;
+            align-content: center;
+            grid-template-columns: 1fr;
+            grid-template-rows: 20% 60% 20%;
+            grid-template-areas:
+                "head"
+                "main"
+                "footer";
+            header {
+                grid-area: head;
+            }
+            section {
+                grid-area: main;
+            }
+            footer {
+                grid-area: footer;
+            }
         }
 }
