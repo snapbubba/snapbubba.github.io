@@ -49,8 +49,11 @@ body {
                     display: block;
                     margin: 0 auto;
                     padding-bottom: 1rem;
-                    @media (min-width: 1030px) {
+                    @media (min-width: 768px) {
                         max-width: 8rem;
+                    }
+                    @media (min-width: 1030px) {
+                        max-width: 10rem;
                     }
                 }
             }
