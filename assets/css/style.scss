@@ -25,6 +25,8 @@ body {
         .wrapper {
             display: grid;
             width: 100vw;
+            height: auto;
+            min-height: 100vh;
             justify-content: center;
             align-content: center;
             grid-template-columns: 1fr;
