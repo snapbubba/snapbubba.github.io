@@ -11,6 +11,7 @@ description: Get face-perfect shots.
 github_username: snapbubba
 
 logo: /assets/img/snap-bubba-logo.png
+hide_title: yes
 
 # Email and twitter are optional:
 email: info@snapbubba.com

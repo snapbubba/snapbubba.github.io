@@ -44,6 +44,13 @@ body {
             }
             header {
                 grid-area: head;
+                .logo {
+                    display: block;
+                    margin: 0 auto;
+                    @media (min-width: 1030px) {
+                        max-width: 8rem;
+                    }
+                }
             }
             section {
                 grid-area: main;
