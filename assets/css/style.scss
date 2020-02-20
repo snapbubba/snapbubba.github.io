@@ -2,7 +2,7 @@
 ---
 
 //@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Knewave|Josefin+Sans:100,300,400,400i,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Knewave&display=swap');
 :root, [data-theme="default"] {
   --main-color: #000000;
   --lighter-color: #333333;
@@ -20,7 +20,7 @@ body {
     font-weight: 400;
 
     h1,h2,h3,h4,h5,h6 {
-        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Knewave', cursive;
     }
         .wrapper {
             display: grid;
