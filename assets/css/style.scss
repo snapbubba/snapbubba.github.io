@@ -31,7 +31,7 @@ body {
             justify-content: center;
             align-content: center;
             grid-template-columns: 1fr;
-            grid-template-rows: minmax(2rem, 1fr) minmax(4rem, 5fr) minmax(1rem, auto);
+            grid-template-rows: minmax(2rem, 1fr) minmax(3rem, 9fr) minmax(1rem, auto);
             grid-template-areas:
                 "head"
                 "main"
