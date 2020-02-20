@@ -2,8 +2,7 @@
 ---
 
 //@import "{{ site.theme }}";
-//@import url('https://fonts.googleapis.com/css?family=Roboto:500,700,900&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=family=Knewave|Josefin+Sans:100,300,400,400i,600,700&display=swap');
 :root, [data-theme="default"] {
   --main-color: #000000;
   --lighter-color: #333333;
@@ -21,7 +20,6 @@ body {
     font-weight: 400;
 
     h1,h2,h3,h4,h5,h6 {
-        //font-family: 'Roboto', sans-serif;
         font-family: 'Josefin Sans', sans-serif;
     }
         .wrapper {
@@ -58,6 +56,10 @@ body {
                     @media (min-width: 1030px) {
                         max-width: 10rem;
                     }
+                }
+
+                .tagline {
+                    font-family: 'Knewave', cursive;
                 }
             }
             section {
