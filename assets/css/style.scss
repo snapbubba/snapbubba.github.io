@@ -65,6 +65,27 @@ body {
             section {
                 grid-area: main;
                 align-self: flex-start;
+                .products {
+                    display: grid;
+                    grid-template-columns: 1fr;
+                    justify-items: center;
+                    align-items: center;
+                    margin: 0 auto;
+
+                    @media (min-width: 1030px) {
+                        grid-template-columns: repeat(3, 1fr);
+                    }
+
+                    .product {
+
+                        img.product-img {
+                            max-width: 16rem;
+                            @media (min-width: 1030px) {
+                                max-width: 10rem;
+                            }
+                        }
+                    }
+                }
             }
             footer {
                 grid-area: footer;
