@@ -10,12 +10,12 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 
 <div markdown="1" class="products">
 <div markdown="1" class="product 3-md-up">
-[![Bear](/assets/img/products/bear-shadow.png)](https://test.com/bear){: .product-img}
+[![Bear](/assets/img/products/bear-shadow.png){: .product-img}](https://test.com/bear)
 </div>
 <div markdown="1" class="product 3-md-up">
-[![Sun](/assets/img/products/sun-shadow.png)](https://test.com/sun){: .product-img}
+[![Sun](/assets/img/products/sun-shadow.png){: .product-img}](https://test.com/sun)
 </div>
 <div markdown="1" class="product 3-md-up">
-[![Alice](/assets/img/products/alice-shadow.png)](https://test.com/alice){: .product-img}
+[![Alice](/assets/img/products/alice-shadow.png){: .product-img}](https://test.com/alice)
 </div>
 </div>
