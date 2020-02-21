@@ -7,3 +7,13 @@ So using research about what kind of imagery babies are interested by I decided 
 Your baby can be entertained by the cute drawing on your phone, while you focus on getting that good shot. No more looking over the top of the phone cooing and calling and making faces just to try to get their attention.
 
 I wanted to make the drawings appealing to both adults and babies, so I enlisted the help of illustrator Liz Demin to create a series of fun drawings based on nature, animals, and a couple of little human characters.
+
+<div class="3-md-up">
+    [![Bear](/assets/img/products/bear-shadow.png)](https://test.com/bear)
+</div>
+<div class="3-md-up">
+    [![Sun](/assets/img/products/sun-shadow.png)](https://test.com/sun)
+</div>
+<div class="3-md-up">
+    [![Alice](/assets/img/products/alice-shadow.png)](https://test.com/alice)
+</div>
