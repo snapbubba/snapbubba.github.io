@@ -8,12 +8,14 @@ Your baby can be entertained by the cute drawing on your phone, while you focus 
 
 I wanted to make the drawings appealing to both adults and babies, so I enlisted the help of illustrator Liz Demin to create a series of fun drawings based on nature, animals, and a couple of little human characters.
 
-<div class="3-md-up" markdown="1">
-    [![Bear](/assets/img/products/bear-shadow.png)](https://test.com/bear){: .product}
-</div>
-<div class="3-md-up" markdown="1">
-    [![Sun](/assets/img/products/sun-shadow.png)](https://test.com/sun){: .product}
-</div>
-<div class="3-md-up" markdown="1">
-    [![Alice](/assets/img/products/alice-shadow.png)](https://test.com/alice){: .product}
+<div class="products" markdown="1">
+    <div class="product-holder 3-md-up" markdown="1">
+        [![Bear](/assets/img/products/bear-shadow.png)](https://test.com/bear){: .product}
+    </div>
+    <div class="product-holder 3-md-up" markdown="1">
+        [![Sun](/assets/img/products/sun-shadow.png)](https://test.com/sun){: .product}
+    </div>
+    <div class="product-holder 3-md-up" markdown="1">
+        [![Alice](/assets/img/products/alice-shadow.png)](https://test.com/alice){: .product}
+    </div>
 </div>
