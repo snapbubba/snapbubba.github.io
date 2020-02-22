@@ -17,7 +17,8 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 <div markdown="1" class="product-text">
 <br>**Bear**<br>
-£2.99
+£2.99<br>
+(Plus 90p postage)
 </div>
 </form>
 </div>
@@ -29,7 +30,8 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 <div markdown="1" class="product-text">
 <br>**Sun**<br>
-£2.99
+£2.99<br>
+(Plus 90p postage)
 </div>
 </form>
 </div>
@@ -41,7 +43,8 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 <div markdown="1" class="product-text">
 <br>**Alice**<br>
-£2.99
+£2.99<br>
+(Plus 90p postage)
 </div>
 </form>
 </div>
