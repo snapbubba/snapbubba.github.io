@@ -15,8 +15,10 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <input type="hidden" name="hosted_button_id" value="5RWF27S8WC8BW">
 <input type="image" src="/assets/img/products/bear-shadow.png" border="0" name="submit" class="product-img add-to-cart bear-add-to-cart" alt="Bear">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+<div markdown="1" class="product-text">
 <br>**Bear**<br>
 £2.99
+</div>
 </form>
 </div>
 <div markdown="1" class="product 3-md-up">
@@ -25,8 +27,10 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <input type="hidden" name="hosted_button_id" value="5YP8MU5TQRBRW">
 <input type="image" src="/assets/img/products/sun-shadow.png" border="0" name="submit" class="product-img add-to-cart sun-add-to-cart" alt="Sun">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+<div markdown="1" class="product-text">
 <br>**Sun**<br>
 £2.99
+</div>
 </form>
 
 </div>
@@ -36,8 +40,10 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <input type="hidden" name="hosted_button_id" value="8B5CV6P6KYG6C">
 <input type="image" src="/assets/img/products/alice-shadow.png" border="0" name="submit" class="product-img add-to-cart alice-add-to-cart" alt="Alice">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+<div markdown="1" class="product-text">
 <br>**Alice**<br>
 £2.99
+</div>
 </form>
 </div>
 </div>
