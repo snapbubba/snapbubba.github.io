@@ -18,7 +18,7 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <div markdown="1" class="product-text">
 <br>**Bear**<br>
 £2.99<br>
-(Plus 90p postage)
+<span class="smaller">(+ 90p postage)</span>
 </div>
 </form>
 </div>
@@ -31,7 +31,7 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <div markdown="1" class="product-text">
 <br>**Sun**<br>
 £2.99<br>
-(Plus 90p postage)
+<span class="smaller">(+ 90p postage)</span>
 </div>
 </form>
 </div>
@@ -44,7 +44,7 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 <div markdown="1" class="product-text">
 <br>**Alice**<br>
 £2.99<br>
-(Plus 90p postage)
+<span class="smaller">(+ 90p postage)</span>
 </div>
 </form>
 </div>
