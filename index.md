@@ -22,7 +22,7 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 </form>
 </div>
 <div markdown="1" class="product 3-md-up">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form markdown="1" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="5YP8MU5TQRBRW">
 <input type="image" src="/assets/img/products/sun-shadow.png" border="0" name="submit" class="product-img add-to-cart sun-add-to-cart" alt="Sun">
@@ -32,7 +32,6 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 £2.99
 </div>
 </form>
-
 </div>
 <div markdown="1" class="product 3-md-up">
 <form markdown="1" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
