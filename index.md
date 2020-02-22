@@ -10,7 +10,14 @@ I wanted to make the drawings appealing to both adults and babies, so I enlisted
 
 <div markdown="1" class="products">
 <div markdown="1" class="product 3-md-up">
-[![Bear](/assets/img/products/bear-shadow.png){: .product-img}](https://test.com/bear)
+<form markdown="1" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="5RWF27S8WC8BW">
+<input type="image" src="/assets/img/products/bear-shadow.png" border="0" name="submit" class="product-img" alt="Bear">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+Bear
+£2.99
+</form>
 </div>
 <div markdown="1" class="product 3-md-up">
 [![Sun](/assets/img/products/sun-shadow.png){: .product-img}](https://test.com/sun)
